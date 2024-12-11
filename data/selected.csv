@@ -1,0 +1,40 @@
+﻿variable,question
+ADDEPEV3,"(Ever told) (you had) a depressive disorder (including depression, major depression, dysthymia, or minor depression)?"
+ASTHMA3,(Ever told) (you had) asthma?
+ASTHNOW,Do you have asthma now?
+BLIND,"Are you blind or do you have serious difficulty seeing, even when wearing glasses?"
+CAREGIV1,"During the past 30 days, did you provide regular care or assistance to a friend or family member who has a health problem or disability?"
+CHCKDNY2,"Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?"
+CRGVEXPT,"In the next 2 years, do you expect to provide care or assistance to a friend or family member who has a health problem or disability?"
+CVDCRHD4,(Ever told) (you had) angina or coronary heart disease?
+CVDINFR4,Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI)
+CVDSTRK3,(Ever told) (you had) a stroke.
+DEAF,Are you deaf or do you have serious difficulty hearing?
+DECIDE,"Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?"
+DIABETE4,(Ever told) (you had) diabetes?
+DIFFALON,"Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor´s office or shopping?"
+DIFFDRES,Do you have difficulty dressing or bathing?
+DIFFWALK,Do you have serious difficulty walking or climbing stairs?
+EMPLOY1,Are you currently…?
+FLUSHOT7,"During the past 12 months, have you had either flu vaccine that was sprayed in your nose or flu shot injected into your arm?"
+GENHLTH,Would you say that in general your health is:
+INSULIN1,Are you now taking insulin?
+MARITAL,Are you: (marital status)
+PNEUVAC4,Have you ever had a pneumonia shot also known as a pneumococcal vaccine?
+RENTHOM1,Do you own or rent your home?
+SEXVAR,Sex of Respondent
+SHINGLE2,Have you ever had the shingles or zoster vaccine?
+TRNSGNDR,Do you consider yourself to be transgender?
+USENOW3,"Do you currently use chewing tobacco, snuff, or snus every day, some days, or not at all?"
+VETERAN3,"Have you ever served on active duty in the United States Armed Forces, either in the regular military or in a National Guard or military reserve unit?"
+x_AGEG5YR,Fourteen-level age category
+x_ASTHMS1,Computed asthma status
+x_BMI5CAT,Four-categories of Body Mass Index (BMI)
+x_EDUCAG,Level of education completed
+x_MENT14D,"3 level not good mental health status: 0 days, 1-13 days, 14-30 days"
+x_PHYS14D,"3 level not good physical health status: 0 days, 1-13 days, 14-30 days"
+x_RFHLTH,Adults with good or better health
+x_SMOKER3,"Four-level smoker status:  Everyday smoker, Someday smoker, Former smoker, Non-smoker"
+x_STATE,State FIPS Code
+x_TOTINDA,Adults who reported doing physical activity or exercise during the past 30 days other than their regular job
+x_URBSTAT,Urban/Rural Status
